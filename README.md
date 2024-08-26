@@ -4,7 +4,8 @@ This project uses computer vision and hand tracking to control the system volume
 
 ## Demo
 
-[Link to demo video]
+![Hand Gesture Volume Control](https://github.com/AhemdMahmoud/Hand-Gesture-Volume-Control/blob/main/GIF.gif)
+
 
 ## Features
 
