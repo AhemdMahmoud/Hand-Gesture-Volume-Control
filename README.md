@@ -17,29 +17,17 @@ This project uses computer vision and hand tracking to control the system volume
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
+ ```
+pip install -r requirements.txt
 
-- Python 3.7+
-- OpenCV
-- NumPy
-- Mediapipe
-- CVZone
-- Pycaw
+ ```
+
 
 ## Installation
 
 1. Clone this repository:
    ```
    git clone https://github.com/AhemdMahmoud/Hand-Gesture-Volume-Control.git
-   ```
-
-2. Install the required packages:
-   ```
-   pip install opencv-python numpy mediapipe cvzone
-   ```
-
-3. Install Pycaw:
-   ```
-   pip install https://github.com/AndreMiras/pycaw/archive/develop.zip
    ```
 
 ## Usage
@@ -61,3 +49,10 @@ Before you begin, ensure you have met the following requirements:
 4. This distance is mapped to a volume range.
 5. The system volume is adjusted accordingly.
 6. Visual feedback is provided on the video feed.
+
+
+## referance Audio 
+
+ ```
+https://github.com/AndreMiras/pycaw/archive/develop.zip
+ ```
