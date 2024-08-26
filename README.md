@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone [your-repo-link]
+   git clone https://github.com/AhemdMahmoud/Hand-Gesture-Volume-Control.git
    ```
 
 2. Install the required packages:
